@@ -1,41 +1,7 @@
-# Python cache files
-__pycache__
-.py[cod]
-$py.class
 
 .ipynb_checkpoints/
-
-# Virtual environments
-venv
-.venv
-env
-ENV
-
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints
-
-# Environment variables and secrets
+__pycache__/
+*.py[cod]
+venv/
+.venv/
 .env
-.env.
-!.env.example
-
-# IDE and editor settings
-.vscode
-.idea
-
-# Operating system files
-.DS_Store
-Thumbs.db
-desktop.ini
-
-# Logs
-.log
-
-# Temporary files
-.tmp
-.bak
-
-# Python packaging
-build
-dist
-.egg-info
